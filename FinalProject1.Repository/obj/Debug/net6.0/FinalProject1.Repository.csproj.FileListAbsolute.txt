@@ -1,0 +1,12 @@
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\bin\Debug\net6.0\FinalProject1.Repository.deps.json
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\bin\Debug\net6.0\FinalProject1.Repository.dll
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\bin\Debug\net6.0\ref\FinalProject1.Repository.dll
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\bin\Debug\net6.0\FinalProject1.Repository.pdb
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.csproj.AssemblyReference.cache
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.AssemblyInfoInputs.cache
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.AssemblyInfo.cs
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.dll
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\ref\FinalProject1.Repository.dll
+C:\CsharpProjects\CSFINALPROJECT\FinalProject1.Repository\obj\Debug\net6.0\FinalProject1.Repository.pdb
